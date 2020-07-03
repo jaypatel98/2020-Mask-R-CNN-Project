@@ -1,4 +1,4 @@
-# Peyton2020MaskRCNN
+# Jay Patel 2020 Mask R-CNN
 
 This is my implementation of MaskRCNN for cell detection.
 
