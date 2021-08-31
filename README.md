@@ -16,4 +16,4 @@ You can predict your own model using the [Predict Jupyter Lab](main/Predict.ipyn
 
 I was not able to upload my trained models because it is a large file. You will have to modify the model location and name on the predict jupyter lab to match your model.
 
-Finally, the all settings for running the model including how I loaded the annotations are in [Cell.py](main/Cell.py). This is where you will change the GPU usage, as well as the anchor points and minimum confidence levels.
+Finally, all of the settings for running the model including how I loaded the annotations are in [Cell.py](main/Cell.py). This is where you will change the GPU usage, as well as the anchor points and minimum confidence levels.
